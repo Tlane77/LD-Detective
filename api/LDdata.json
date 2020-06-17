@@ -1,0 +1,56 @@
+{
+  "type": [
+    {
+      "id": 1,
+      "name": "Brownie"
+    },
+    {
+      "id": 2,
+      "name": "Cake"
+    }
+  ],
+  "season": [
+    {
+      "id": 1,
+      "name": "Christmas"
+    },
+    {
+      "id": 2,
+      "name": "Super Bowl"
+    },
+    {
+      "id": 3,
+      "name": "Summer"
+    }
+  ],
+  "shape": [
+    {
+      "id": 1,
+      "name": "Tree"
+    },
+    {
+      "id": 2,
+      "name": "Double Diamond"
+    }
+  ],
+  "sweet": [
+    {
+      "id": 1,
+      "name": "Football Brownies",
+      "quantity": 5,
+      "desc": "Looks like a football",
+      "shapeId": 2,
+      "typeId": 1,
+      "seasonId": 2
+    },
+    {
+      "id": 2,
+      "name": "Happy Camper Cake",
+      "quantity": 6,
+      "desc": "Green Like a Pine Tree",
+      "shapeId": 1,
+      "typeId": 2,
+      "seasonId": 3
+    }
+  ]
+}
