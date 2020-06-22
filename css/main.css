@@ -1,3 +1,7 @@
 body {
 	background-color: aqua;
 }
+
+.sweetCard {
+	border: .2em solid black;
+}
