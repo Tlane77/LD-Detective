@@ -1,5 +1,5 @@
 {
-  "type": [
+  "types": [
     {
       "id": 1,
       "name": "Brownie"
@@ -9,7 +9,7 @@
       "name": "Cake"
     }
   ],
-  "season": [
+  "seasons": [
     {
       "id": 1,
       "name": "Christmas"
@@ -23,7 +23,7 @@
       "name": "Summer"
     }
   ],
-  "shape": [
+  "shapes": [
     {
       "id": 1,
       "name": "Tree"
@@ -51,6 +51,15 @@
       "shapeId": 1,
       "typeId": 2,
       "seasonId": 3
+    },
+    {
+      "name": "Christmas In July",
+      "quantity": 5,
+      "desc": "White Christmas Tree with Santa on the Package",
+      "shapeId": 1,
+      "typeId": 2,
+      "seasonId": 3,
+      "id": 3
     }
   ]
 }
